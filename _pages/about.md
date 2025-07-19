@@ -32,6 +32,8 @@ Thermodynamics B (4.3/4.3)
 
 Awards
 ---
+<details>
+<summary>High School Awards</summary>
 First Prize ×2 (2022, 2023), China National High School Mathematics League
 
 Bronze Medal, 38th Chinese Mathematical Olympiad (CMO)
@@ -39,7 +41,7 @@ Bronze Medal, 38th Chinese Mathematical Olympiad (CMO)
 Silver Medal, 20th China Western Mathematical Invitational (CWMI)
 
 Silver Medal (Rank 89), 20th China Southeastern Mathematical Olympiad (CSMO)
-
+<details>
 Freshman Scholarship, USTC
 
 (Hope to win more as I go!)
