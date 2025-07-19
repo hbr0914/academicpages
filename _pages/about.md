@@ -20,5 +20,10 @@ Algebra II (4.0/4.3)
 Analysis II (4.3/4.3)
 
 
+Awards
+---
+38th CMO Cu, 20th CWMI Ag, 20th CSMO Ag, USTC Freshman Scholarship
 
+Situation Statement
+---
 I'm currently quite busy with coursework, so this site is still quite basic — but I'll be adding my blog and notes later on.
