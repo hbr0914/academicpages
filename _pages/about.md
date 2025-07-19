@@ -14,7 +14,7 @@ Hello there! I am a second year undergraduate student from [China-France Mathema
 
 I am a passionate [Manchester City](https://www.mancity.com/) fan. Since starting university, I've given up all my other hobbies due to the heavy academic workload — except watching football. But I’m not very good at playing football by myself, to be honest, playing with me will really test your patience!
 
-I am always eager to learn more about mathematics, no matter what.
+I am always eager to learn more about mathematics, no matter what. I intend to pursue my studies in France in two years.
 
 Previously taken courses (Maths and Physics)
 ---
