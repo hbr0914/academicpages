@@ -20,5 +20,5 @@ Algebra II (4.0/4.3)
 Analysis II (4.3/4.3)
 
 
-\\
+
 I'm currently quite busy with coursework, so this site is still quite basic — but I'll be adding my blog and notes later on.
