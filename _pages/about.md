@@ -12,7 +12,7 @@ English name: Bob
 
 Prénom français: Benjamen
 
-Hello there! I am a second year undergraduate student from [China-France Mathematics Talents Class](https://cfmath.ustc.edu.cn/main.htm) (中法数学英才班) of [USTC](https://www.ustc.edu.cn/) (中国科学技术大学). I'm still finding my way in mathematics. I speak poor French, basic English and fluent Chinese. I was born in Changsha, Hunan, spent many years in Guilin, Guangxi, and now live in Hefei, Anhui.
+Hello there! I am now a second year undergraduate student from [China-France Mathematics Talents Class](https://cfmath.ustc.edu.cn/main.htm) (中法数学英才班) of [USTC](https://www.ustc.edu.cn/) (中国科学技术大学). I'm still finding my way in mathematics and I'm trying my best on it. En même temps je suis en train de apprendre le français. I speak poor French, basic English and fluent Chinese. I was born in Changsha, Hunan, spent many years in Guilin, Guangxi, and now live in Hefei, Anhui.
 
 I am always eager to learn more about mathematics, no matter what. I intend to pursue my studies in France in two years.
 
@@ -20,6 +20,7 @@ Previously taken courses (Maths and Physics)
 ---
 <details>
 <summary>Details</summary>
+
 Algebra I (4.0/4.3)
 
 Analysis I (3.7/4.3)
