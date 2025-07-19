@@ -32,7 +32,7 @@ Mechanics B (4.0/4.3)
 
 Thermodynamics B (4.3/4.3)
 
-<\details>
+</details>
 
 Awards
 ---
