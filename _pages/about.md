@@ -18,6 +18,8 @@ I am always eager to learn more about mathematics, no matter what. I intend to p
 
 Previously taken courses (Maths and Physics)
 ---
+<details>
+<summary>Details</summary>
 Algebra I (4.0/4.3)
 
 Analysis I (3.7/4.3)
@@ -29,6 +31,8 @@ Analysis II (4.3/4.3)
 Mechanics B (4.0/4.3)
 
 Thermodynamics B (4.3/4.3)
+
+<details>
 
 Awards
 ---
