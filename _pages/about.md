@@ -34,7 +34,7 @@ Thermodynamics(B) (4.3/4.3)
 
 Awards
 ---
-38th CMO Cu, 20th CWMI Ag, 20th CSMO Grade 11th Ag (rank 89) (As you can see, my abilities in mathematical Olympiads are not particularly outstanding, espeacially in China)
+First Prizes (in 2022 and 2023) in the High School Mathematics League of China, 38th CMO Cu, 20th CWMI Ag, 20th CSMO Grade 11th Ag (rank 89) (As you can see, my abilities in mathematical Olympiads are not particularly outstanding, espeacially in China)
 
 USTC Freshman Scholarship
 
