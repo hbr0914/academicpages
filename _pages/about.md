@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year undergraduate student from [China-France Mathematics Talents Class](cfmath.ustc.edu.cn) of [USTC](www.ustc.edu.cn). I'm still finding my way in mathematics. I speak poor French, basic English, and fluent Chinese. I was born in Changsha, Hunan, spent many years in Guilin, Guangxi, and now live in Hefei, Anhui. I'm a passionate [Manchester City](https://www.mancity.com/) fan. Since starting university, I've given up all my other hobbies due to the heavy academic workload — except watching football. But I’m not very good at playing football by myself, to be honest, playing with me will really test your patience!
+Hello there! I am a second year undergraduate student from [China-France Mathematics Talents Class](cfmath.ustc.edu.cn) of [USTC](www.ustc.edu.cn). I'm still finding my way in mathematics. I speak poor French, basic English, and fluent Chinese. I was born in Changsha, Hunan, spent many years in Guilin, Guangxi, and now live in Hefei, Anhui. I'm a passionate [Manchester City](https://www.mancity.com/) fan. Since starting university, I've given up all my other hobbies due to the heavy academic workload — except watching football. But I’m not very good at playing football by myself, to be honest, playing with me will really test your patience!
 
 Previously taken math courses
 ---
