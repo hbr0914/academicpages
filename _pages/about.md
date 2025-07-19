@@ -9,6 +9,7 @@ redirect_from:
 胡(Hu) 博睿(Borui)
 
 English name: Bob
+
 Prénom français: Benjamen
 
 Hello there! I am a second year undergraduate student from [China-France Mathematics Talents Class](https://cfmath.ustc.edu.cn/main.htm) of [USTC](https://www.ustc.edu.cn/). I'm still finding my way in mathematics. I speak poor French, basic English and fluent Chinese. I was born in Changsha, Hunan, spent many years in Guilin, Guangxi, and now live in Hefei, Anhui.
@@ -33,7 +34,11 @@ Thermodynamics(B) (4.3/4.3)
 
 Awards
 ---
-38th CMO Cu, 20th CWMI Ag, 20th CSMO Grade 11th Ag (rank 89), USTC Freshman Scholarship (Hope to win more)
+38th CMO Cu, 20th CWMI Ag, 20th CSMO Grade 11th Ag (rank 89) (As you see, my abilities in mathematical Olympiads are not particularly outstanding)
+
+USTC Freshman Scholarship
+
+(Hope to win more)
 
 Situation Statement
 ---
