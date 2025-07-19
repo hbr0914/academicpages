@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages of Borui Hu"
+title: "Academic Pages of Borui HU"
 author_profile: true
 redirect_from: 
   - /about/
