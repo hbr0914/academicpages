@@ -10,7 +10,7 @@ redirect_from:
 
 English name: Bob    Prénom français: Benjamen
 
-Hello there! I am a second year undergraduate student from [China-France Mathematics Talents Class](https://www.cfmath.ustc.edu.cn) of [USTC](https://www.ustc.edu.cn). I'm still finding my way in mathematics. I speak poor French, basic English and fluent Chinese. I was born in Changsha, Hunan, spent many years in Guilin, Guangxi, and now live in Hefei, Anhui.
+Hello there! I am a second year undergraduate student from [China-France Mathematics Talents Class](https://cfmath.ustc.edu.cn/main.htm) of [USTC](https://www.ustc.edu.cn/). I'm still finding my way in mathematics. I speak poor French, basic English and fluent Chinese. I was born in Changsha, Hunan, spent many years in Guilin, Guangxi, and now live in Hefei, Anhui.
 
 I am a passionate [Manchester City](https://www.mancity.com/) fan. Since starting university, I've given up all my other hobbies due to the heavy academic workload — except watching football. But I’m not very good at playing football by myself, to be honest, playing with me will really test your patience!
 
