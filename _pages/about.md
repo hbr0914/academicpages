@@ -33,6 +33,8 @@ Mechanics B (4.0/4.3) <br><br>
 
 Thermodynamics B (4.3/4.3) <br><br>
 
+坦率说我希望能够维持这个成绩直至毕业，但实际上并不可能。一方面是对自己的实力不足有清醒的认知，另一方面是仏班后续给分较差。
+
 </details>
 
 Awards
