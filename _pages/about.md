@@ -35,16 +35,19 @@ Awards
 <details>
 <summary>High School Awards</summary>
   
-First Prize ×2 (2022, 2023), China National High School Mathematics League
+First Prize ×2 (2022, 2023), China National High School Mathematics League<br><br>
 
-Bronze Medal, 38th Chinese Mathematical Olympiad (CMO)
+Bronze Medal, 38th Chinese Mathematical Olympiad (CMO)<br><br>
 
-Silver Medal, 20th China Western Mathematical Invitational (CWMI)
+Silver Medal, 20th China Western Mathematical Invitational (CWMI)<br><br>
 
-Silver Medal (Rank 89), 20th China Southeastern Mathematical Olympiad (CSMO)
+Silver Medal (Rank 89), 20th China Southeastern Mathematical Olympiad (CSMO)<br><br>
 
-(I'm not particularly strong in maths Olympiads.)
+(I'm not particularly strong in maths Olympiads.)<br><br>
 </details>
+
+
+
 
 Freshman Scholarship, USTC
 
