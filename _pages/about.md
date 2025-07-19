@@ -21,17 +21,17 @@ Previously taken courses (Maths and Physics)
 <details>
 <summary>Details</summary>
 
-Algebra I (4.0/4.3)
+Algebra I (4.0/4.3) <br><br>
 
-Analysis I (3.7/4.3)
+Analysis I (3.7/4.3) <br><br>
 
-Algebra II (4.0/4.3)
+Algebra II (4.0/4.3) <br><br>
 
-Analysis II (4.3/4.3)
+Analysis II (4.3/4.3) <br><br>
 
-Mechanics B (4.0/4.3)
+Mechanics B (4.0/4.3) <br><br>
 
-Thermodynamics B (4.3/4.3)
+Thermodynamics B (4.3/4.3) <br><br>
 
 </details>
 
