@@ -1,7 +1,7 @@
 google_fonts:
   - family: Ubuntu
     weights: "400,700"
-  - family: Noto Serif Simplified Chinese
+  - family: Noto Serif SC
     weights: "400,700"
 
 
