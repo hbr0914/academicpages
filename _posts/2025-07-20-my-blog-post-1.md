@@ -1,7 +1,7 @@
 ---
 title: '周记(1)'
 date: 2025-7-20
-permalink: /posts/blog-post-1/
+permalink: /posts/2025-07-20-my-blog-post-1/
 tags:
   - Notes
 ---
