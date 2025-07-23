@@ -33,6 +33,7 @@ Mechanics B (4.0/4.3) <br><br>
 
 Thermodynamics B (4.3/4.3) <br><br>
 
+Electromagnetics A (4.0/4.3) <br><br>
 </details>
 
 Awards
