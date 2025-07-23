@@ -21,19 +21,19 @@ Previously taken courses (Maths and Physics)
 <details>
 <summary>Details</summary>
 
-Algebra I (4.0/4.3) <br><br>
+Algebra I (91/100 4.0/4.3) <br><br>
 
-Analysis I (3.7/4.3) <br><br>
+Analysis I (88/100 3.7/4.3) <br><br>
 
-Algebra II (4.0/4.3) <br><br>
+Algebra II (91.9/100 4.0/4.3) <br><br>
 
-Analysis II (4.3/4.3) <br><br>
+Analysis II (95/100 4.3/4.3) <br><br>
 
-Mechanics B (4.0/4.3) <br><br>
+Mechanics B (92/100 4.0/4.3) <br><br>
 
-Thermodynamics B (4.3/4.3) <br><br>
+Thermodynamics B (96/100 4.3/4.3) <br><br>
 
-Electromagnetics A (4.0/4.3) <br><br>
+Electromagnetics A (93/100 4.0/4.3) <br><br>
 </details>
 
 Awards
