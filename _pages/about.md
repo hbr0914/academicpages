@@ -8,11 +8,11 @@ redirect_from:
 ---
 “(...) para que fondeara sin tropiezos en los mares más profundos donde los peces son ciegos y los buzos se mueren de nostalgia. ”
 
-##胡(Hu) 博睿(Borui)
+胡(Hu) 博睿(Borui)
 
-English name: ##Bob
+English name: Bob
 
-Prénom français: ##Benjamen
+Prénom français: Benjamen
 
 Hello there! I am now a second year undergraduate student from [China-France Mathematics Talents Class](https://cfmath.ustc.edu.cn/main.htm) (中法数学英才班， Classe sino-française) of [USTC](https://www.ustc.edu.cn/) (中国科学技术大学). I'm still finding my way in mathematics and I'm trying my best on it. En même temps je suis en train de apprendre le français. I speak poor French, basic English and fluent Chinese. I was born in Changsha, Hunan, spent many years in Guilin, Guangxi, and now live in Hefei, Anhui.
 
