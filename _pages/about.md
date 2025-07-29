@@ -8,7 +8,7 @@ redirect_from:
 ---
 “(...) para que fondeara sin tropiezos en los mares más profundos donde los peces son ciegos y los buzos se mueren de nostalgia. ”
 
-胡(Hu) 博睿(Borui)
+# 胡(Hu) 博睿(Borui)
 
 English name: Bob
 
