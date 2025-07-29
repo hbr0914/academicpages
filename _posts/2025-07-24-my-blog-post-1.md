@@ -6,7 +6,7 @@ tags:
   - literature 
 ---
 
-# Ut pictura poesis
+Ut pictura poesis
 
 ## 风与雨
 
