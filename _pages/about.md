@@ -65,4 +65,4 @@ Situation Statement
 ---
 I'm currently quite busy with coursework, so this site is still quite basic — but I'll be adding my blog and notes (may not be useful) in very soon.
 
-You can also discover a little bit of my literary creations on the website, but Chinese only.
+You can also discover a little bit of my literary creations on my website, but Chinese only.
