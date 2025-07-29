@@ -1,16 +1,18 @@
 ---
 permalink: /
-title: "Academic Pages of Borui HU"
+title: "Pages of Borui HU"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-胡(Hu) 博睿(Borui)
+“(...) para que fondeara sin tropiezos en los mares más profundos donde los peces son ciegos y los buzos se mueren de nostalgia. ”
 
-English name: Bob
+##胡(Hu) 博睿(Borui)
 
-Prénom français: Benjamen
+English name: ##Bob
+
+Prénom français: ##Benjamen
 
 Hello there! I am now a second year undergraduate student from [China-France Mathematics Talents Class](https://cfmath.ustc.edu.cn/main.htm) (中法数学英才班， Classe sino-française) of [USTC](https://www.ustc.edu.cn/) (中国科学技术大学). I'm still finding my way in mathematics and I'm trying my best on it. En même temps je suis en train de apprendre le français. I speak poor French, basic English and fluent Chinese. I was born in Changsha, Hunan, spent many years in Guilin, Guangxi, and now live in Hefei, Anhui.
 
@@ -61,4 +63,4 @@ Freshman Scholarship, USTC
 
 Situation Statement
 ---
-I'm currently quite busy with coursework, so this site is still quite basic — but I'll be adding my blog and notes(may not be useful) in very soon.
+I'm currently quite busy with coursework, so this site is still quite basic — but I'll be adding my blog and notes (may not be useful) in very soon.
