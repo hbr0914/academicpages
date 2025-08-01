@@ -12,7 +12,7 @@ redirect_from:
 
 English name: Bob
 
-Hello there! I am now a second year undergraduate student from [USTC](https://www.ustc.edu.cn/) (中国科学技术大学). I started university in September 2024 and I’m currently studying mathematics. I'm still finding my way in mathematics and I'm trying my best on it. I speak basic English and fluent Chinese. I was born in Changsha, Hunan, spent many years in Guilin, Guangxi, and now live in Hefei, Anhui.
+Hello there! I am now a second year undergraduate student from [USTC](https://www.ustc.edu.cn/) (中国科学技术大学). I started university in August 2024 and I’m currently studying mathematics. I'm still finding my way in mathematics and I'm trying my best on it. I speak basic English and fluent Chinese. I was born in Changsha, Hunan, spent many years in Guilin, Guangxi, and now live in Hefei, Anhui.
 
 I am always eager to learn more about mathematics, no matter what.
 
