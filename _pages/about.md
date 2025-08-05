@@ -12,7 +12,11 @@ redirect_from:
 
 English name: Bob
 
+Prénom français: Benjamin
+
 Hello there! I am now a second year undergraduate student from [USTC](https://www.ustc.edu.cn/). I started university in August 2024 and I’m currently studying mathematics. I'm still finding my way in mathematics and I'm trying my best on it. I speak basic English and fluent Chinese (evidently). I was born in Changsha, Hunan, spent many years studying in Guilin, Guangxi, and now live in Hefei, Anhui.
+
+Je suis actuellement élève de la classe franco‑chinoise des talents en mathématiques de l’USTC (C’est un programme hybride, à mi-chemin entre les classes préparatoires françaises, le cursus de licence et le système universitaire chinois). Puis je suis en train de apprendre  le français et les mathématiques à la française. Bien qu’il soit très exigeant, j’y prends un réel plaisir.
 
 I am always eager to learn more about mathematics, no matter what.
 
